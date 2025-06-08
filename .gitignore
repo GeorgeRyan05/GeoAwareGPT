@@ -1,0 +1,13 @@
+*venv
+log
+*.log
+__pycache__
+.mypy_cache/
+.pytest_cache/
+.venv/
+.env
+config.json
+azure_config.json
+.config
+test*.png
+poetry.lock
